@@ -1,0 +1,10 @@
+﻿  main.cpp
+d:\work\hw\c语言二学期\期末选题\雷霆战机\雷霆战机\main.cpp(331): warning C4996: '_swprintf': This function or variable may be unsafe. Consider using swprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstdio.h(1446): note: 参见“_swprintf”的声明
+d:\work\hw\c语言二学期\期末选题\雷霆战机\雷霆战机\main.cpp(426): warning C4996: '_swprintf': This function or variable may be unsafe. Consider using swprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstdio.h(1446): note: 参见“_swprintf”的声明
+d:\work\hw\c语言二学期\期末选题\雷霆战机\雷霆战机\main.cpp(435): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(459): note: 参见“kbhit”的声明
+d:\work\hw\c语言二学期\期末选题\雷霆战机\雷霆战机\main.cpp(437): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: 参见“getch”的声明
+  雷霆战机.vcxproj -> D:\Work\HW\C语言二学期\期末选题\雷霆战机\Debug\雷霆战机.exe
